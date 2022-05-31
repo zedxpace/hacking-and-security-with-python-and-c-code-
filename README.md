@@ -2,7 +2,7 @@
 This page will contain all the links to the script and exploits built from scratch in python as well as c code.
 
 
-## <a href="https://www.codexpace.ml">BLOG</a>
+## <a href="https://www.codexpace.ml">codeXpace.ml</a>
 
 ### <a href="https://www.codexpace.ml/2021/10/signverify.html">1. sign and verify messages with openssl in python </a>
 ### <a href="https://www.codexpace.ml/2022/02/sandbox-detection.html">2. SandBox Detection in python</a>
