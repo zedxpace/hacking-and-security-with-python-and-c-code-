@@ -15,3 +15,4 @@ This page will contain all the links to the script and exploits built from scrat
 ### <a href="https://www.codexpace.ml/2022/04/sniffer-with-no-filter.html">10. Sniffing packets in python</a>
 ### <a href="https://www.codexpace.ml/2022/04/sniffer-for-email-credentials.html">11. Email Credential sniffers in python</a>
 ### <a href="https://www.codexpace.ml/2022/06/revershell-with-python.html">12. Reverse shell in python<a>
+### <a href="https://www.codexpace.ml/2022/06/stealing-wifi-passwords-with-python.html">13. stealing saved wifi password from windows machine in python</a>
