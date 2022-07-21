@@ -19,7 +19,7 @@ This page will contain all the links to the script and exploits built from scrat
 ### <a href="https://www.codexpace.ml/2022/07/bluetooth-scanner-with-python.html">14. Bluetooth discovery with python</a>
 ### <a href="https://www.codexpace.ml/2022/07/sdpservice-discovery-protocol-browser.html">15. Bluetooth SDP browser</a>
 ### <a href="https://www.codexpace.ml/2022/07/rcomm-channel-scanner.html">16. RCOMM channel scanner </a>
-
+### <a href="https://www.codexpace.ml/2022/07/obex-object-exchange.html">17. Bluetooth OBEX</a>
 
 
 
