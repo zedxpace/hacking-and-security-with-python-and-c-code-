@@ -22,6 +22,9 @@ This page will contain all the links to the script and exploits built from scrat
 ### <a href="https://www.codexpace.ml/2022/07/obex-object-exchange.html">17. Bluetooth OBEX</a>
 ### <a href="https://www.codexpace.ml/2022/07/blue-bug-exploit.html">18. Blue Bug Exploit</a>
 ### <a href="https://www.codexpace.ml/2022/07/blue-snarf-exploit.html">19. Blue Snarf Exploit</a>
+### <a href="https://www.codexpace.ml/2022/07/bluetooth-spoofing.html">19. Bluetooth spoofing</a>
+
+  
 
 
 
