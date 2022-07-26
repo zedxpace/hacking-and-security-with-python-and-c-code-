@@ -20,7 +20,6 @@ This page will contain all the links to the script and exploits built from scrat
                 <td>3. <a href='https://www.codexpace.ml/2022/03/tcp-proxy.html'>TCP Proxy</a></td>
             </tr>
 
-            <!-- and so on... -->
         </tbody>
     </table>
 
@@ -45,7 +44,6 @@ This page will contain all the links to the script and exploits built from scrat
             <td>3. <a href="https://www.codexpace.ml/2022/04/sniffer-for-email-credentials.html">Email Credential sniffers </a></td>
         </tr>
 
-        <!-- and so on... -->
     </tbody>
 </table>
 
@@ -84,7 +82,6 @@ This page will contain all the links to the script and exploits built from scrat
       	<tr >
             <td>8. <a href="https://www.codexpace.ml/2022/07/bluetooth-sniffing.html">Bluetooth sniffing</a></td>
         </tr>
-        <!-- and so on... -->
     </tbody>
 </table>
 
@@ -103,7 +100,6 @@ This page will contain all the links to the script and exploits built from scrat
         <tr>
             <td>1. <a href="https://www.codexpace.ml/2022/02/hacking-with-kali-cheatsheet.html">Hacking commands with Kali Linux </a></td>
         </tr>
-        <!-- and so on... -->
     </tbody>
 </table>
 
@@ -133,7 +129,6 @@ This page will contain all the links to the script and exploits built from scrat
             <td>5. <a href='https://www.codexpace.ml/2022/06/revershell-with-python.html'>Backdoor with Python</a></td>
         </tr>
 
-        <!-- and so on... -->
     </tbody>
 </table>
 </br>
@@ -150,7 +145,6 @@ This page will contain all the links to the script and exploits built from scrat
         <tr>
             <td>1. <a href="https://www.codexpace.ml/2022/03/dictionary-attacks.html">Dictionary Attack</a></td>
         </tr>
-        <!-- and so on... -->
     </tbody>
 </table>
 
@@ -168,7 +162,6 @@ This page will contain all the links to the script and exploits built from scrat
         <tr>
             <td>1. <a href="https://www.codexpace.ml/2022/03/man-in-browser.html">Man in Browser Attack</a></td>
         </tr>
-        <!-- and so on... -->
     </tbody>
 </table>
 </br>
