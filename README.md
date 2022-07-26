@@ -2,56 +2,8 @@
 This page will contain all the links to the script and exploits built from scratch in python as well as c code.
 <img width="1015" alt="Screenshot 2022-03-06 at 10 53 12 PM" src="https://user-images.githubusercontent.com/52217313/171239356-57bce9eb-b1ea-44cf-a1bb-43424cf4277f.png">
 ## <a href="https://www.codexpace.ml">codeXpace.ml</a>
-
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <style type="text/css" media="screen">
-
-.styled-table {
-    border-collapse: collapse;
-    margin: 25px 0;
-    font-size: 0.9em;
-    font-family: sans-serif;
-    min-width: 400px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-}
-.styled-table thead tr {
-    background-color: #009879;
-    color: #ffffff;
-    text-align: left;
-}
-
-.styled-table th,
-.styled-table td {
-    padding: 12px 15px;
-}
-
-.styled-table tbody tr {
-    border-bottom: 1px solid #dddddd;
-}
-
-.styled-table tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
-}
-
-.styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
-}
-
-
-        
-    </style>
-</head>
-
-
-<body>
-    <h1>SECURITY</h1></br>
-<!--################################## SECURITY SECTION ################################## -->
-
-    <table class="styled-table" style="margin: 0px auto;">
+   <h1>SECURITY</h1></br>
+    <table  style="margin: 0px auto;">
         <thead>
             <tr>
                 <th>SECURING SYSTEM</th>
@@ -76,7 +28,7 @@ This page will contain all the links to the script and exploits built from scrat
     <h1>HACKING</h1></br>
 <!--################################## STEALING AND SNIFFING SECTION ################################## -->
 
-<table class="styled-table" style="margin: 0px auto;">
+<table  style="margin: 0px auto;">
     <thead>
         <tr>
             <th>STEALING AND SNIFFING ATTACKS</th>
@@ -101,7 +53,7 @@ This page will contain all the links to the script and exploits built from scrat
 </br>
 
 <!--################################## BLUETOOTH SECTION ################################## -->
-<table class="styled-table" style="margin: 0px auto;">
+<table style="margin: 0px auto;">
     <thead>
         <tr>
             <th>Bluetooth Attacks</th>
@@ -141,7 +93,7 @@ This page will contain all the links to the script and exploits built from scrat
 
 <!--################################## CHEATSHEET KALI LINUX SECTION ################################## -->
 
-<table class="styled-table" style="margin: 0px auto;">
+<table style="margin: 0px auto;">
     <thead>
         <tr>
             <th>KALI LINUX HACKING COMMANDS CHEATSHEET</th>
@@ -158,7 +110,7 @@ This page will contain all the links to the script and exploits built from scrat
 </br>
 <!--################################## BACKDOOR AND TROJANS SECTION ################################## -->
 
-<table class="styled-table" style="margin: 0px auto;">
+<table  style="margin: 0px auto;">
     <thead>
         <tr>
             <th>TROJAN AND BACKDOORS</th>
@@ -188,7 +140,7 @@ This page will contain all the links to the script and exploits built from scrat
 
 <!--################################## DICTIONARY AND BRUTEFORCING SECTION ################################## -->
 
-<table class="styled-table" style="margin: 0px auto;">
+<table  style="margin: 0px auto;">
     <thead>
         <tr>
             <th>DICTIONARY AND BURTEFORCING ATTACKS</th>
@@ -206,7 +158,7 @@ This page will contain all the links to the script and exploits built from scrat
 
 <!--################################## MAN IN THE MIDDLE SECTION ################################## -->
 
-<table class="styled-table" style="margin: 0px auto;">
+<table  style="margin: 0px auto;">
     <thead>
         <tr>
             <th>MAN IN THE MIDDLE ATTACKS</th>
